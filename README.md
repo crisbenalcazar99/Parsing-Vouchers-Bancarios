@@ -51,6 +51,20 @@ El microservicio expone varios endpoints para diferentes operaciones:
 - **Procesamiento de Comprobantes**:
   - Una vez entrenado, el procesador puede identificar y extraer datos clave de los comprobantes bancarios subidos por los usuarios.
   - La información extraída incluye, pero no se limita a, datos como montos, fechas, nombres de los beneficiarios, y detalles de transacciones.
+  - 
+### Ejemplos de Pruebas
+
+Comprobante bancario enviado al microsevicio
+ ![Voucher Enviado al servicio](Testing/Imagen_Voucher.png)
+
+Informacion extraida del comprobante bancario
+![Informacion Extraida](Testing/Imagen_Resultado.png)
+
+Comprobante bancario enviado al microsevicio
+ ![Voucher Enviado al servicio](Testing/Imagen_Voucher2.png)
+
+Informacion extraida del comprobante bancario
+![Informacion Extraida](Testing/Imagen_Resultado2.png)
 
 ### Conclusión
 
